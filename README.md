@@ -7,7 +7,7 @@ To run the voice assistant, you will need the following:
 Python 3.x installed on your computer
 Required Python modules: speech_recognition, pyttsx3, pywhatkit, datetime, wikipedia, and pyjokes. You can install them using pip or any other Python package manager.
 
-#Getting Started
+# Getting Started
 1.Clone this repository or download the source code as a zip file and extract it to a directory of your choice.
 2.Install the required Python modules using pip or any other Python package manager. 
 For example:
@@ -17,7 +17,7 @@ For example:
      python voice_assistant.py
 4.The voice assistant will start listening for voice commands. Say "Alexa" to activate the voice assistant and then give your command. The voice assistant will respond accordingly based on the implemented commands.
 
-#Commands
+# Commands
 The voice assistant currently supports the following commands:
 
 Play: You can say "play" followed by the name of a song or video, and the voice assistant will play it on YouTube using the 'pywhatkit' module.
