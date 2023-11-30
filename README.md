@@ -1,4 +1,4 @@
-# Alexa_Clone
+# Alexa_Sphere
 This is a simple voice assistant program that allows you to interact with your computer using voice commands. The voice assistant can perform tasks such as playing YouTube videos, fetching information from Wikipedia, providing jokes, and more.
 
 # Prerequisites
